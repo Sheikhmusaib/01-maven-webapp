@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>WELCOME TO THE MUSAIBIT WORLD..... COME LEARN AND LEAD THE WORLD</h2>
+<h2>WELCOME TO THE MUSAIBIT WORLD. COME LEARN AND LEAD THE WORLD</h2>
 
 <p>Choose your favorite Web language:</p>
 
