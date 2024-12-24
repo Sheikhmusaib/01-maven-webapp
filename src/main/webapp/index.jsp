@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<h2>WELCOME TO THE MUSAIBIT WORLD...............Leading software institute in India</h2>
+<h2>WELCOME TO THE MUSAIBIT WORLD!!</h2>
 
 <p>Choose your favorite Web language:</p>
 
